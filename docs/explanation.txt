@@ -1,0 +1,56 @@
+					
+	                                          Ado.net nedir
+
+	ADO.NET (ActiveX Data Objects.net),microsoft bize sunulan, veritabaný ile uygulamalarýmýz arasýnda köprü görevini
+	görmektedir.ADO.NET ile uygulama tarafýmýzda veritabanýmýza baðlanabilir,verilerimize crud iþlemleri uygulaya biliriz.
+
+
+			                       ORM Nedir
+
+	Ado.net kullanýlan projelerde veritabaný ile ilgili iþlemlerde sql doðrudan sorgularý yazýlmak durumundadýr.
+       ORM ile yazýlan projelerde ise veritabaný tablolarý sýnýflarla sütunlar ise deðiþkenlerle eþlenir ve böylece   
+       yazýlan sorgular kolaylaþtýrýlmýþtýr.
+
+				       Java'daki ORM çeþitleri 	
+
+				Java: Hibernate, Ebean, Torque, JPA, MyBattis
+
+		                               ORM Kullanýmýnýn Avantajlarý
+
+	* Nesne tabanlý programlamayý destekler ve  Nesne tabanlý programlama için kod yazým imkaný verir.
+	*sql sorgularýnýn karmaþýklýðýný azaltýr.
+	*veritabaný baðýmlýlýðý yoktur.
+	*Ado.net'e karþý daha güvenlidir.sql injection gibi bilinen saldýrýlara karþý güvenlik önlemleri vardýr.
+	*kod yazma süresini kýsaltýr.
+	*okunabilirliði arttýrýr.
+					         
+		                               ORM Kullanýmýnýn Dezavantajlarý
+
+	* Ado.net 'e kýyasla daha yavaþ performans gösterir.
+	*Veritabaný nesneler üzerinden modellendiðinden nesneler arasýnda bað bulunmaktadýr.Bilinsizce yapýlan müdahaleler 
+	ile baðlantýyý bozma durumu bulunmaktadýr.
+
+					       Hibernate Nedir
+
+	Hibernate java geliþtiricileri için geliþtirilmiþ bir ORM kütüphanesidir.Nesne Yönelimli modellere göre veritabaný
+	ile  olan iliþkiyi saðlayarak , veritabaný üzerinde yapýlan iþlemleri kolaylaþtýrmakla birlikte kurulan yapýyýda
+	saðlamlaþtýrmýþtýr.
+
+	Nesneye yönelik programlama ve iliþkili veritananý kullanýmý programlamanýn olmazsa olmazlarýndandýr.
+	Bu ikisinin birlikte yazýmý zor ve uðraþtýrýcýdýr.Hibernate burada iþe yarýyor,veritabaný ile program arasýnda 
+	eþleme yaparak kodyazim kolaylýðý ve okunabilirliði saðlar.Hibernate yalnýzca bu iþleri yapmaz veri sorgulama(data query)
+	ve veri çekme (data) iþlemlerini de kullanýcý için saðlar. Bu özellikleriyle Hibernate zamandan tasarrufta saðlýyor.
+	Hibernate ,hemen hemen yaygýn tüm veritabaný sistemleri ile uyumludur.Bu özelliði ile çok fazla firma tarafýndan
+	tercih edilmektedir.Ayný zamanda veritabaný baðýmlýlýðýný da ortadan kaldýrdýðý için tercih edilmelidir. 
+	Örneðin Mysql veritabaný kullanýyorsunuz ama oracle ' a geçmeniz gerekiyor programý baþtan yazmak yerine 
+	konfigrasyon dosyasýný deðiþtirmeniz yeterli olacaktýr.
+
+
+
+		
+	
+
+	
+
+
+	
